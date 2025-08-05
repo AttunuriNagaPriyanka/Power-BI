@@ -11,3 +11,8 @@ I'm a data enthusiast and Power BI developer passionate about transforming raw d
 ### My Work
 Check out my repositories below for examples of my Power BI projects. Each project includes the `.pbix` file, relevant data sources, and a detailed README explaining the project's goals, insights, and technologies used.
 
+
+![POWER BI](https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.jpg)
+
+
+
